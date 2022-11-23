@@ -1,0 +1,14 @@
+{
+  "name": "swan-ca",
+  "version": "1.0.0",
+  "description": "",
+  "author": "linyangyang",
+  "license": "ISC",
+  "bin": {
+    "swan-ca": "./index.js"
+  },
+  "dependencies": {
+    "glob": "^8.0.3",
+    "n-readlines": "^1.0.1"
+  }
+}
