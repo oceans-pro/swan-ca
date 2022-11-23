@@ -1,10 +1,10 @@
-# swan-components-analyze
+# swan-c
 
 百度小程序组件依赖分析工具
 
 
 ```sh
-npm i -g swan-components-analyze
+npm i -g swan-ca
 ```
 
 ```sh
